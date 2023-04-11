@@ -12,7 +12,7 @@ This dream isn't possible without you, so please join us! 🙂
 - 📜 [Create a Proposal](https://github.com/wishocracy/wishocracy/issues)
 - 👩‍💻 [Build it!](https://github.com/wishocracy/wishocracy)
 - 📅 [Congressional Calendar](https://calendar.google.com/calendar/u/0?cid=OTBkNjZjOTUxZjUxYzEwNjVmMzljYzk0ZjBjNGZjMDE0YjRmODMyNTAxM2FlN2I5ZDkyNTcxMmM1MjQ5MGFjNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- 🗣️ [Discord](https://discord.gg/sduRjfN8Kf)
+- 🗣️ [Discuss](https://github.com/orgs/wishocracy/discussions)
 <!--
 
 **Here are some ideas to get you started:**
