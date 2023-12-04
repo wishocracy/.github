@@ -1,18 +1,7 @@
 ## 💫 Wishocracy 💫
 
-Giving Everyone as Much of What They Want As Physically Possible
+A recipe for a world for people who want the stuff they want. 
 
-Imagine a world where societal resources were perfectly allocated to maximize human health and happiness. 
-A world without corruption and government waste. A world where everyone's voice is heard, and the focus is on measurable outcomes. 
-Welcome to Wishonia, an operating system for the best world possible.
-
-This dream isn't possible without you, so please join us! 🙂
-
-- 🤯 [Learn More](https://gamma.app/docs/A-Wishocratic-Government-Decentralized-Democratic-and-Measurable-czcbz4bl0c4gc7y?mode=doc)
-- 📜 [Create a Proposal](https://github.com/wishocracy/wishocracy/issues)
-- 👩‍💻 [Build it!](https://github.com/wishocracy/wishocracy)
-- 📅 [Congressional Calendar](https://calendar.google.com/calendar/u/0?cid=OTBkNjZjOTUxZjUxYzEwNjVmMzljYzk0ZjBjNGZjMDE0YjRmODMyNTAxM2FlN2I5ZDkyNTcxMmM1MjQ5MGFjNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- 🗣️ [Discuss](https://github.com/orgs/wishocracy/discussions)
 <!--
 
 **Here are some ideas to get you started:**
